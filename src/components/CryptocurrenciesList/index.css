@@ -1,0 +1,52 @@
+/* Write your CSS code here */
+.listBgHead {
+  color: #00e7ff;
+}
+
+.listBg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+}
+
+.listBgImgHead {
+  width: 60%;
+}
+
+.tableList {
+  border: 4px solid #00e7ff;
+  border-radius: 5px;
+  width: 60%;
+}
+
+.tableHead {
+  background-color: #092e33;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+
+.namesCol {
+  display: flex;
+  justify-content: space-around;
+}
+
+.coinHead {
+  margin-left: 1rem;
+}
+
+.usdHead {
+  margin-right: 1rem;
+}
+
+.euroHead {
+  margin-right: 1rem;
+}
+
+.ulList {
+  margin-left: 0px;
+  padding-left: 0px;
+  list-style: none;
+}

@@ -1,0 +1,12 @@
+/* Write your CSS here */
+
+.TrackerBg {
+  min-height: 100vh;
+  background-color: black;
+  border: 1px solid transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: auto;
+}

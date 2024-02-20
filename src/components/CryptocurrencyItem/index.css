@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.liImg {
+  height: 20px;
+  width: 20px;
+}
+
+.liList {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+
+.liTypeBg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 1rem;
+}
